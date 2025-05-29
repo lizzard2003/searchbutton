@@ -5,7 +5,7 @@ body {
     max-width: 600px;
     margin: 50px auto;
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 30px solid #6962cc; /*border around box*/
     border-radius: 10px;
 }
 
@@ -17,7 +17,7 @@ input[type="text"] {
 
 button {
     padding: 10px 20px;
-    background-color: #5168ef;
+    background-color: #5161bf;
     color: white;
     border: none;
     border-radius: 5px;
@@ -32,5 +32,5 @@ button:hover {
     margin-top: 20px;
     padding: 10px;
     background-color: #f1f8e9;
-    border-left: 5px solid #7cb342;
+    border-left: 5px solid #e65ee1;
 }
